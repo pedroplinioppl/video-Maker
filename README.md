@@ -1,6 +1,7 @@
 # Gerador Automatizado de Vídeos Curtos (Shorts / Reels / TikTok)
 
 Este projeto automatiza a criação de vídeos curtos em formato vertical (9:16) a partir de ideias em texto ou roteiros pré-definidos.
+Vale o adendo que eu fiz ele em 2023, no ensino médio, eu pedi pra IA higienizar mas ela não fez nenhuma alteração significativa, isso implica que provavelmente o código não roda atualmente (Não tenho mais crédito nas APIs para testar também :( ).
 
 O pipeline realiza:
 1. **Geração do Roteiro**: Criação do texto e da história utilizando a API da OpenAI.
